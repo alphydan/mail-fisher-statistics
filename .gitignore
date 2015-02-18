@@ -1,0 +1,16 @@
+# Basics
+*.py[cod]
+*.pyc
+__pycache__
+
+# Logs
+*.log
+
+# Vim
+
+*~
+*.swp
+*.swo
+
+# Gr#!@%@# apple files
+.DS_Store
