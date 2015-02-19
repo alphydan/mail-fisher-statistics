@@ -58,7 +58,7 @@ def min_max_significant(i, average_response_percentage = 1):
 #####################################
 
 
-letter_number = range(1000,35000,500)
+letter_number = range(1000,75000,500)
 average_response_percentage = 1
 with open('significance_table.csv', 'wb') as csvfile:
     sigwriter = csv.writer(csvfile)
